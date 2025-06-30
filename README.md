@@ -6,11 +6,13 @@ During my one-year industrial training, I had the opportunity to work on three m
 
 1. **Grab 360 Karta Cam Street View Data Collection**  
    Captured and processed 360-degree street view imagery for navigation and mapping enhancement purposes.
+   ![image](https://github.com/user-attachments/assets/fa2b0bfc-144d-4d2e-a153-6ace92f92343)
 
-2. **Sime Darby Palm Oil Plantation Mapping**  
+
+3. **Sime Darby Palm Oil Plantation Mapping**  
    Collected and managed GIS data to support spatial analysis and decision-making within palm oil plantation environments.
 
-3. **TNB Low Voltage Asset Mapping using 360° Street View**  
+4. **TNB Low Voltage Asset Mapping using 360° Street View**  
    Mapped electrical infrastructure assets using 360° imaging and GIS integration to support utility management and maintenance planning.
 
 ---
