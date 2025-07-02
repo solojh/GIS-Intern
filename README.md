@@ -18,20 +18,13 @@ During my one-year industrial training, I had the opportunity to work on three m
 ---
 
 ### 📌 Job Scope & Responsibilities
-
-1. **🗺️ Cartography and Map Production**  
-   Designed and created maps for multiple purposes, including topographic and asset mapping.
-
-2. **🖥️ Software Proficiency**  
+1. **🖥️ Software Proficiency**  
    Gained hands-on experience in GIS tools such as **ArcGIS**, **ArcMap**, and related spatial analysis platforms.
 
-3. **📍 Fieldwork**  
+2. **📍 Fieldwork**  
    Participated in on-site data collection activities using GPS and mobile GIS tools.
 
-4. **📈 Professional Development**  
-   Enhanced understanding of real-world GIS workflows and improved technical competency through continuous learning and project execution.
-
-5. **🛰️ Spatial Data Collection**  
+3. **🛰️ Spatial Data Collection**  
    Applied GPS and remote sensing technologies to acquire spatial information for integration into GIS systems.
 
 ---
