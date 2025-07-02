@@ -36,4 +36,4 @@ During my one-year industrial training, I had the opportunity to work on three m
 
 ---
 
-This internship provided me with strong practical exposure to GIS project workflows, team collaboration, and geospatial technology applications in industries such as transportation, plantation management, and public utilities.
+This internship provided me with strong practical exposure to GIS project workflows, team collaboration, and geospatial technology applications.
